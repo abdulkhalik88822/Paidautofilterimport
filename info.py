@@ -28,7 +28,7 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/9133dc596eabc737507
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1976189133').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001851831036').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002028120006').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1976189133').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
@@ -60,8 +60,8 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Ghostbaja')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Ter_Tabakka')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Ter_Tabakka')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
-MSG_ALRT = environ.get('MSG_ALRT', 'Hello Nanbha and Nanbis ❤️')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002028120006'))
+MSG_ALRT = environ.get('MSG_ALRT', 'Hello Lovely Friend ❤️')
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001851831036'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Ghostbaja')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
