@@ -1262,14 +1262,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 quote=True,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('🖥 Watch online', url=lazy_stream),  # web stream Link
-                                                    InlineKeyboardButton("📥 Fast Download", url=lazy_download)]])  # we download Link
+                                                    InlineKeyboardButton("📥 Download Fast", url=lazy_download)]])  # we download Link
             )
             await query.message.reply_text(
                 text="•• ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴇᴅ ☠︎⚔",
                 quote=True,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('🖥 Watch online', url=lazy_stream),  # web stream Link
-                                                    InlineKeyboardButton("📥 Fast Download", url=lazy_download)]])  # we download Link
+                                                    InlineKeyboardButton("📥 Download Fast", url=lazy_download)]])  # we download Link
             )
         except Exception as e:
             print(e)  # print the error message
@@ -1668,7 +1668,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "share":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/KUSHALHK")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/Sumit_Nadiya")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
