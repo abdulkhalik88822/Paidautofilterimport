@@ -463,15 +463,17 @@ Your time is valuable, Stop watching ads and simply avoid the stupidity
 
 Prime Membership Progress
 
-1 month - 15 Rs
+1 month - 29 Rs
 
-3 Months – 50 RS
+3 Months – 79 RS
 
-6 months - 95 Rs
+6 months - 159 Rs
 
 12 Months - 300 Rs [1 Month Free Trial]
 
-♛ UPI ID »»————> harikushal234@okicici
+♛ UPI ID »»————>  sumitnadiyaias@oksbi
+
+♛ QR CODE »»————> <a href='https://t.me/Ter_Tabakka/54'>CLICK HERE</a> 
 
 Would you like to become a Prime Member? Follow these steps:-
 
@@ -479,7 +481,7 @@ Would you like to become a Prime Member? Follow these steps:-
 ✤ Step 2: Pay using UPI ID depending on your plan.
 ✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
 
-Any doubts or how to become a prime member? contact me @KUSHALHK @TG_Bots_Supporter</code></b>"""
+Any doubts or how to become a prime member? contact me @Sumit_Nadiya</code></b>"""
 
 
 
