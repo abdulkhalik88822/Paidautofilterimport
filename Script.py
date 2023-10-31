@@ -471,9 +471,9 @@ Prime Membership Progress
 
 12 Months - 300 Rs [1 Month Free Trial]
 
-♛ UPI ID »»————>  sumitnadiyaias@oksbi
+♛ UPI ID »»———>  sumitnadiyaias@oksbi
 
-♛ QR CODE »»————> <a href='https://t.me/Ter_Tabakka/54'>CLICK HERE</a> 
+♛ QR CODE »»———> <a href='https://t.me/Ter_Tabakka/54'>CLICK HERE</a> 
 
 Would you like to become a Prime Member? Follow these steps:-
 
