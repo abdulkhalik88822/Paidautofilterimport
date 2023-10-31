@@ -23,7 +23,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://i.postimg.cc/LXvwShXk/960x0.jpg https://i.postimg.cc/dtXMD794/IMG-20231028-014848.jpg https://i.postimg.cc/0Qx1xLCv/IMG-20231028-014434.jpg https://i.postimg.cc/PrqhCnnr/IMG-20231028-014324.jpg https://i.postimg.cc/vBdbT1bp/IMG-20231028-014220.jpg https://i.postimg.cc/dtWs6tjy/IMG-20231028-014045.jpg https://i.postimg.cc/1XGg4xkK/IMG-20231028-013949.jpg https://i.postimg.cc/8z1vJ5Pf/IMG-20231028-013801-349.jpg https://i.postimg.cc/4ym9LhtY/IMG-20231028-013658.jpg https://i.postimg.cc/jjpY1pGt/Screenshot-2023-09-17-13-08-51-659-com-dts-freefiremax-2.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/62efbcc4e7580b76530ba.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/e215d12bfd4fa2155e90e.mp4")
+MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/6d754cd447246fe40453f.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/9133dc596eabc73750774.jpg")
 
 # Admins, Channels & Users
