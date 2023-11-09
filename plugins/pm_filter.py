@@ -1283,6 +1283,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "select":
         await query.answer(text=script.SELECT, show_alert=True)
 
+    elif query.data == "boss":
+        await query.answer(text=script.BOSS, show_alert=True)
+
     elif query.data == "sinfo":
         await query.answer(text=script.SINFO, show_alert=True)
 
