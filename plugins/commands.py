@@ -77,7 +77,7 @@ async def start(client, message):
             [
                 InlineKeyboardButton("❆ Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link)
             ],[
-                InlineKeyboardButton('🤔 Why Iam Join 🤔', url="https://t.me/Ter_Tabakka/247")
+                InlineKeyboardButton('🤔 Why Iam Join 🤔', callback_data='boss')
             ]
         ]
 
