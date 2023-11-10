@@ -1823,7 +1823,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await query.message.edit_reply_markup(reply_markup)
     await query.answer(MSG_ALRT)
 
-elif query.data == "removebg":
+elif query.data = "removebg":
         buttons = [[
             InlineKeyboardButton(text="𝖶𝗂𝗍𝗁 𝖶𝗁𝗂𝗍𝖾 𝖡𝖦", callback_data="rmbgwhite"),
             InlineKeyboardButton(text="𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖡𝖦", callback_data="rmbgplain"),
@@ -1834,7 +1834,7 @@ elif query.data == "removebg":
         ]]
         await query.message.edit_text("**Sᴇʟᴇᴄᴛ Rᴇᴏ̨ᴜɪʀᴇᴅ Mᴏᴅᴇ**", reply_markup=InlineKeyboardMarkup(buttons))
             
-    elif query.data == "stick":
+    elif query.data = "stick":
         buttons = [[
             InlineKeyboardButton(text="𝖭𝗈𝗋𝗆𝖺𝗅", callback_data="stkr"),
             InlineKeyboardButton(text="𝖤𝖽𝗀𝖾 𝖢𝗎𝗋𝗏𝖾𝖽", callback_data="cur_ved"),
@@ -1845,7 +1845,7 @@ elif query.data == "removebg":
         ]]              
         await query.message.edit("**Sᴇʟᴇᴄᴛ A Tʏᴘᴇ**", reply_markup=InlineKeyboardMarkup(buttons))          
             
-    elif query.data == "rotate":
+    elif query.data = "rotate":
         buttons = [[
             InlineKeyboardButton(text="180", callback_data="180"),
             InlineKeyboardButton(text="90", callback_data="90")
@@ -1856,7 +1856,7 @@ elif query.data == "removebg":
         ]]
         await query.message.edit_text("**Sᴇʟᴇᴄᴛ Tʜᴇ Dᴇɢʀᴇᴇ**", reply_markup=InlineKeyboardMarkup(buttons))
             
-    elif query.data == "glitch":
+    elif query.data = "glitch":
         buttons = [[
             InlineKeyboardButton(text="𝖭𝗈𝗋𝗆𝖺𝗅", callback_data="normalglitch"),
             InlineKeyboardButton(text="𝖲𝖼𝖺𝗇 𝖫𝖺𝗂𝗇𝗌", callback_data="scanlineglitch")
@@ -1865,7 +1865,7 @@ elif query.data == "removebg":
         ]]
         await query.message.edit_text("**Sᴇʟᴇᴄᴛ Rᴇᴏ̨ᴜɪʀᴇᴅ Mᴏᴅᴇ**", reply_markup=InlineKeyboardMarkup(buttons))
             
-    elif query.data == "normalglitch":
+    elif query.data = "normalglitch":
         buttons = [[
             InlineKeyboardButton(text="1", callback_data="normalglitch1"),
             InlineKeyboardButton(text="2", callback_data="normalglitch2"),
@@ -1878,7 +1878,7 @@ elif query.data == "removebg":
             ]]
         await query.message.edit_text(text="**Sᴇʟᴇᴄᴛ Gʟɪᴛᴄʜ Pᴏᴡᴇʀ Lᴇᴠᴇʟ**", reply_markup=InlineKeyboardMarkup(buttons))
            
-    elif query.data == "scanlineglitch":
+    elif query.data = "scanlineglitch":
         buttons = [[
             InlineKeyboardButton(text="1", callback_data="scanlineglitch1"),
             InlineKeyboardButton(text="2", callback_data="scanlineglitch2"),
@@ -1891,7 +1891,7 @@ elif query.data == "removebg":
         ]]
         await query.message.edit_text("**Sᴇʟᴇᴄᴛ Gʟɪᴛᴄʜ Pᴏᴡᴇʀ Lᴇᴠᴇʟ**", reply_markup=InlineKeyboardMarkup(buttons))
             
-    elif query.data == "blur":
+    elif query.data = "blur":
         buttons = [[
             InlineKeyboardButton(text="𝖡𝗈𝗑", callback_data="box"),
             InlineKeyboardButton(text="𝖭𝗈𝗋𝗆𝖺𝗅", callback_data="normal"),
@@ -1902,7 +1902,7 @@ elif query.data == "removebg":
         ]]
         await query.message.edit("**Sᴇʟᴇᴄᴛ A Tʏᴘᴇ**", reply_markup=InlineKeyboardMarkup(buttons))
             
-    elif query.data == "circle":
+    elif query.data = "circle":
         buttons = [[
             InlineKeyboardButton(text="𝖶𝗂𝗍𝗁 𝖡𝖦", callback_data="circlewithbg"),
             InlineKeyboardButton(text="𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖡𝖦", callback_data="circlewithoutbg"),
@@ -1911,7 +1911,7 @@ elif query.data == "removebg":
         ]]
         await query.message.edit_text("**Sᴇʟᴇᴄᴛ Rᴇᴏ̨ᴜɪʀᴇᴅ Mᴏᴅᴇ**", reply_markup=InlineKeyboardMarkup(buttons))
             
-    elif query.data == "border":
+    elif query.data = "border":
         buttons = [[
             InlineKeyboardButton(text="𝖱𝖾𝖽", callback_data="red"),
             InlineKeyboardButton(text="𝖦𝗋𝖾𝖾𝗇", callback_data="green"),
@@ -1923,7 +1923,7 @@ elif query.data == "removebg":
         ]]           
         await query.message.edit("**Sᴇʟᴇᴄᴛ Bᴏʀᴅᴇʀ**", reply_markup=InlineKeyboardMarkup(buttons))
    
-    elif query.data == "photo":
+    elif query.data = "photo":
         buttons = [[
             InlineKeyboardButton(text="𝖡𝗋𝗂𝗀𝗍𝗁", callback_data="bright"),
             InlineKeyboardButton(text="𝖬𝗂𝗑𝖾𝖽", callback_data="mix"),
@@ -1949,81 +1949,81 @@ elif query.data == "removebg":
         ]]
         await query.message.edit_text("Sᴇʟᴇᴄᴛ Yᴏᴜʀ Rᴇǫᴜɪʀᴇᴅ Mᴏᴅᴇ Fʀᴏᴍ Bᴇʟᴏᴡ!", reply_markup=InlineKeyboardMarkup(buttons))
                
-    elif query.data == "bright":
+    elif query.data = "bright":
         await bright(client, query.message)
-    elif query.data == "mix":
+    elif query.data = "mix":
         await mix(client, query.message)
-    elif query.data == "b|w":
+    elif query.data = "b|w":
         await black_white(client, query.message)
-    elif query.data == "circlewithbg":
+    elif query.data = "circlewithbg":
         await circle_with_bg(client, query.message)
-    elif query.data == "circlewithoutbg":
+    elif query.data = "circlewithoutbg":
         await circle_without_bg(client, query.message)
-    elif query.data == "green":
+    elif query.data = "green":
         await green_border(client, query.message)
-    elif query.data == "blue":
+    elif query.data = "blue":
         await blue_border(client, query.message)
-    elif query.data == "red":
+    elif query.data = "red":
         await red_border(client, query.message)
-    elif query.data == "black":
+    elif query.data = "black":
         await black_border(client, query.message)
-    elif query.data == "circle_sticker":
+    elif query.data = "circle_sticker":
         await round_sticker(client, query.message)
-    elif query.data == "inverted":
+    elif query.data = "inverted":
         await inverted(client, query.message)
-    elif query.data == "stkr":
+    elif query.data = "stkr":
         await sticker(client, query.message)
-    elif query.data == "cur_ved":
+    elif query.data = "cur_ved":
         await edge_curved(client, query.message)
-    elif query.data == "90":
+    elif query.data = "90":
         await rotate_90(client, query.message)
-    elif query.data == "180":
+    elif query.data = "180":
         await rotate_180(client, query.message)
-    elif query.data == "270":
+    elif query.data = "270":
         await rotate_270(client, query.message)
-    elif query.data == "contrast":
+    elif query.data = "contrast":
         await contrast(client, query.message)
-    elif query.data == "box":
+    elif query.data = "box":
         await box_blur(client, query.message)
-    elif query.data == "gas":
+    elif query.data = "gas":
         await g_blur(client, query.message)
-    elif query.data == "normal":
+    elif query.data = "normal":
         await normal_blur(client, query.message)
-    elif query.data == "sepia":
+    elif query.data = "sepia":
         await sepia_mode(client, query.message)
-    elif query.data == "pencil":
+    elif query.data = "pencil":
         await pencil(client, query.message)
-    elif query.data == "cartoon":
+    elif query.data = "cartoon":
         await cartoon(client, query.message)
-    elif query.data == "normalglitch1":
+    elif query.data = "normalglitch1":
         await normalglitch_1(client, query.message)
-    elif query.data == "normalglitch2":
+    elif query.data = "normalglitch2":
         await normalglitch_2(client, query.message)
-    elif query.data == "normalglitch3":
+    elif query.data = "normalglitch3":
         await normalglitch_3(client, query.message)
-    elif query.data == "normalglitch4":
+    elif query.data = "normalglitch4":
         await normalglitch_4(client, query.message)
-    elif query.data == "normalglitch5":
+    elif query.data = "normalglitch5":
         await normalglitch_5(client, query.message)
-    elif query.data == "scanlineglitch1":
+    elif query.data = "scanlineglitch1":
         await scanlineglitch_1(client, query.message)
-    elif query.data == "scanlineglitch2":
+    elif query.data = "scanlineglitch2":
         await scanlineglitch_2(client, query.message)
-    elif query.data == "scanlineglitch3":
+    elif query.data = "scanlineglitch3":
         await scanlineglitch_3(client, query.message)
-    elif query.data == "scanlineglitch4":
+    elif query.data = "scanlineglitch4":
         await scanlineglitch_4(client, query.message)
-    elif query.data == "scanlineglitch5":
+    elif query.data = "scanlineglitch5":
         await scanlineglitch_5(client, query.message)
-    elif query.data == "rmbgwhite":
+    elif query.data = "rmbgwhite":
         await removebg_white(client, query.message)
-    elif query.data == "rmbgplain":
+    elif query.data = "rmbgplain":
         await removebg_plain(client, query.message)
-    elif query.data == "rmbgsticker":
+    elif query.data = "rmbgsticker":
         await removebg_sticker(client, query.message)
-    elif query.data == "pages":
+    elif query.data = "pages":
         await query.answer("🤨 Cᴜʀɪᴏsɪᴛʏ Is A Lɪᴛᴛʟᴇ Mᴏʀᴇ, Isɴ'ᴛ Iᴛ? 😁", show_alert=True)
-    elif query.data == "howdl":
+    elif query.data = "howdl":
         try: await query.answer(script.HOW_TO_DOWNLOAD.format(query.from_user.first_name), show_alert=True)
         except: await query.message.edit(script.HOW_TO_DOWNLOAD.format(query.from_user.first_name))
 
