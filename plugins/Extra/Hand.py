@@ -35,5 +35,3 @@ async def text(bot, message):
         os.remove(file_name)
     else:
         await message.reply_text("Please don't do It")
-
-Clien.run()
