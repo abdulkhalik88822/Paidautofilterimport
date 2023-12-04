@@ -4,6 +4,14 @@ from pyrogram.types import User, Message
 import requests
 import os
 
+Client = Client(
+    "Handwriting",
+    bot_token=os.environ["BOT_TOKEN"],
+    api_id=int(os.environ["API_ID"]),
+    api_hash=os.environ["API_HASH"],
+)
+
+
 @Client.on_message(filters.command('hand'))
 async def text(bot, message):
     text = str(message.text)
@@ -35,3 +43,5 @@ async def text(bot, message):
         os.remove(file_name)
     else:
         await message.reply_text("Please don't do It")
+
+Clien.run()
