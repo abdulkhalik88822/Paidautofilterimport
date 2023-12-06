@@ -2105,7 +2105,8 @@ async def auto_filter(client, msg, spoll=False):
                                                                                                                                         ]))
 
                 l = await message.reply_text(text=f"🦹 Hi `{message.from_user.first_name}` ⚡,\n\nYour Request Has Been Send To Our **Admin's Dashboard** .\n🎬Name : `{search}`\n🦅Requested By : `{message.from_user.first_name}`",
-                await asyncio.sleep(12)                                                                                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("━ • │▌║  ᗩᗪᗪ ʍɛ 2 ᑌᖇ Ǥᖇᗝᑌᑭ  ║▌│ • ━", url=f'http://t.me/{temp.U_NAME}?startgroup=true')],[InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]]))
+                                                                                                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("━ • │▌║  ᗩᗪᗪ ʍɛ 2 ᑌᖇ Ǥᖇᗝᑌᑭ  ║▌│ • ━", url=f'http://t.me/{temp.U_NAME}?startgroup=true')],[InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]]))
+                await asyncio.sleep(12)
                 await l.delete()
                 if settings["spell_check"]:
                     return await advantage_spell_chok(client, msg)
