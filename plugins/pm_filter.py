@@ -270,7 +270,10 @@ async def advantage_spoll_choker(bot, query):
                 reqstr1 = query.from_user.id if query.from_user else 0
                 reqstr = await bot.get_users(reqstr1)
                 if NO_RESULTS_MSG:
-                    await bot.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, movie)))
+                    await bot.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, movie,
+                                                                                                      reply_markup=InlineKeyboardMarkup([
+                                                                                                                                        [InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]
+                                                                                                                                        ]))))
                 k = await query.message.edit(script.MVE_NT_FND)
                 await asyncio.sleep(10)
                 await k.delete()
@@ -2097,7 +2100,10 @@ async def auto_filter(client, msg, spoll=False):
                     return await advantage_spell_chok(client, msg)
                 else:
                     # if NO_RESULTS_MSG:
-                    #     await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, search)))
+                    #     await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, search,
+                                                                                                      reply_markup=InlineKeyboardMarkup([
+                                                                                                                                        [InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]
+                                                                                                                                        ]))))
                     return
         else:
             return
