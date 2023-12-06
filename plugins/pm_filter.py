@@ -43,7 +43,7 @@ from plugins.helper.edit_5 import normalglitch_1, normalglitch_2, normalglitch_3
 
 # Configuration
 from info import ADMINS, AUTH_CHANNEL, AUTH_USERS, CUSTOM_FILE_CAPTION, AUTH_GROUPS, P_TTI_SHOW_OFF, PICS, IMDB, SINGLE_BUTTON, PROTECT_CONTENT, \
-    SPELL_CHECK_REPLY, IMDB_TEMPLATE, SHORTLINK_URL, SHORTLINK_API, FIND_CHANNEL
+    SPELL_CHECK_REPLY, IMDB_TEMPLATE, SHORTLINK_URL, SHORTLINK_API
 
 import os
 req_channel = int(environ.get('FIND_CHANNEL', '-1002083512310'))
