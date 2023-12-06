@@ -5,6 +5,7 @@ import ast
 import math
 import random
 import pytz
+import os
 from datetime import datetime, timedelta, date, time
 lock = asyncio.Lock()
 
@@ -43,7 +44,7 @@ from plugins.helper.edit_5 import normalglitch_1, normalglitch_2, normalglitch_3
 
 # Configuration
 from info import ADMINS, AUTH_CHANNEL, AUTH_USERS, CUSTOM_FILE_CAPTION, AUTH_GROUPS, P_TTI_SHOW_OFF, PICS, IMDB, SINGLE_BUTTON, PROTECT_CONTENT, \
-    SPELL_CHECK_REPLY, IMDB_TEMPLATE, SHORTLINK_URL, SHORTLINK_API
+    SPELL_CHECK_REPLY, IMDB_TEMPLATE, SHORTLINK_URL, SHORTLINK_API, FIND_CHANNEL
 
 
 logger = logging.getLogger(__name__)
