@@ -2104,8 +2104,8 @@ async def auto_filter(client, msg, spoll=False):
                                                                                                                                         [InlineKeyboardButton("❌Reject Req", callback_data=f"notify_user_req_rejected:{user_id}:{requested_movie}")]
                                                                                                                                         ]))
 
-                l = await message.reply_text(text=f"🦹 Hi `{message.from_user.first_name}` ⚡,\n\nYour Request Has Been Send To Our **Admin's Dashboard** .\n🎬Name : `{search}`\n🦅Requested By : `{message.from_user.first_name}`\n\nSupport:- @{ADMIN_USRNM}",
-                await asyncio.sleep(12)                                                                                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]]))
+                l = await message.reply_text(text=f"🦹 Hi `{message.from_user.first_name}` ⚡,\n\nYour Request Has Been Send To Our **Admin's Dashboard** .\n🎬Name : `{search}`\n🦅Requested By : `{message.from_user.first_name}`",
+                await asyncio.sleep(12)                                                                                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("━ • │▌║  ᗩᗪᗪ ʍɛ 2 ᑌᖇ Ǥᖇᗝᑌᑭ  ║▌│ • ━", url=f'http://t.me/{temp.U_NAME}?startgroup=true')],[InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]]))
                 await l.delete()
                 if settings["spell_check"]:
                     return await advantage_spell_chok(client, msg)
