@@ -2101,9 +2101,9 @@ async def auto_filter(client, msg, spoll=False):
                 else:
                     # if NO_RESULTS_MSG:
                     #     await client.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, search,
-                                                                                                      reply_markup=InlineKeyboardMarkup([
-                                                                                                                                        [InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]
-                                                                                                                                        ]))))
+                    #                                                                                  reply_markup=InlineKeyboardMarkup([
+                    #                                                                                                                    [InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]
+                    #                                                                                                                    ]))))
                     return
         else:
             return
