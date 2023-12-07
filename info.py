@@ -41,6 +41,8 @@ reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002028120006')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
+RemoveBG_API = environ.get("RemoveBG_API", "ExDX1GcytRVzyJx5msftF1KA")
+
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://sumitnadiyaias:Sumit9737@cl.pafjwdk.mongodb.net/?retryWrites=true&w=majority")
