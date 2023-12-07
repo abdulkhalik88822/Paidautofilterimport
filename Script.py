@@ -505,7 +505,7 @@ Would you like to become a Prime Member? Follow these steps:-
 Any doubts or how to become a prime member? contact me @Sumit_Nadiya</code></b>"""
 
     PUSHPA = """
-<b>─────「<a href=https://t.me/Ter_Tabakka/220> Hᴏᴡ ᴛᴏ Eᴅɪᴛ Pʜᴏᴛᴏ </a> 」────
+<b>─────「<a href=https://t.me/Ter_Tabakka/247> Hᴏᴡ ᴛᴏ Eᴅɪᴛ Pʜᴏᴛᴏ </a> 」────
 
 Yᴏᴜ ᴄᴀɴ Eᴅɪᴛ Pʜᴏᴛᴏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
