@@ -137,8 +137,7 @@ async def start(client, message):
             os.remove(file)
             BATCH_FILES[file_id] = msgs
         for msg in msgs:
-            files = files_[0]
-            title = ' ' + ' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), files.file_name.split()))
+            title =msg.get("title")
             size=get_size(int(msg.get("size", 0)))
             f_caption=msg.get("caption", "")
             if BATCH_FILE_CAPTION:
@@ -148,7 +147,7 @@ async def start(client, message):
                     logger.exception(e)
                     f_caption=f_caption
             if f_caption is None:
-                f_caption = f"{' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@'), files.file_name.split()))}"
+                f_caption = f"title"
             try:
                 # Create the inline keyboard button with callback_data
                 await client.send_cached_media(
