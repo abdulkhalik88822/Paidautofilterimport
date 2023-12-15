@@ -147,7 +147,7 @@ async def start(client, message):
                     logger.exception(e)
                     f_caption=f_caption
             if f_caption is None:
-                f_caption = f"title"
+                f_caption = f"{title}"
             try:
                 # Create the inline keyboard button with callback_data
                 await client.send_cached_media(
