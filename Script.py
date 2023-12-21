@@ -210,9 +210,7 @@ Any Doubts or Not Connecting? Contact Me </b>
 
     SELECT = """
 QUALITY ➢ Sᴇʟᴇᴄᴛ "Qᴜᴀʟɪᴛʏ"
-
 MOVIES ➢ Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs"
-
 SERIES ➢ Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
 
 Tɪᴘ ➢ Sᴇʟᴇᴄᴛ "Qᴜᴀʟɪᴛʏ" ᴏʀ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛᴏɴ ᴀɴᴅ Cʟɪᴄᴋ "Sᴇɴᴅ Aʟʟ" Tᴏ ɢᴇᴛ Aʟʟ Fɪʟᴇ Lɪɴᴋs ɪɴ ᴀ Sɪɴɢʟᴇ ᴄʟɪᴄᴋ"""
