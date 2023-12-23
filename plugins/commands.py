@@ -31,7 +31,7 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('📿 Cʜᴀɴɴᴇʟ 📿', url=CHNL_LNK),
-                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/Ghostbaja")
+                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/+Z2LwbQ8AbJ0yNWE9")
                 ],[
                     InlineKeyboardButton('👻 Hᴇʟᴘ 👻', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ 👾', callback_data='about')
@@ -56,7 +56,7 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('📿 Cʜᴀɴɴᴇʟ 📿', url=CHNL_LNK),
-                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/Ghostbaja")
+                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/+Z2LwbQ8AbJ0yNWE9")
                 ],[
                     InlineKeyboardButton('👻 Hᴇʟᴘ 👻', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ 👾', callback_data='about')
@@ -110,7 +110,7 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('📿 Cʜᴀɴɴᴇʟ 📿', url=CHNL_LNK),
-                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/Ghostbaja")
+                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/+Z2LwbQ8AbJ0yNWE9")
                 ],[
                     InlineKeyboardButton('👻 Hᴇʟᴘ 👻', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ 👾', callback_data='about')
