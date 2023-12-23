@@ -91,7 +91,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
          text=f"<b>ʜᴇʏ {user} 😍 ,\n\nʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ᴍᴏᴠɪᴇs ꜰʀᴏᴍ ʜᴇʀᴇ. ʀᴇǫᴜᴇsᴛ ɪᴛ ɪɴ ᴏᴜʀ <a href=https://t.me/Ghostbaja>ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a> ᴏʀ ᴄʟɪᴄᴋ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 👇</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ", url=f"https://t.me/Ghostbaja")]])
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ", url=f"https://t.me/+Z2LwbQ8AbJ0yNWE9")]])
     )
     await bot.send_message(
         chat_id=LOG_CHANNEL,
@@ -1545,7 +1545,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/Ghostbaja")
+                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/+Z2LwbQ8AbJ0yNWE9")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1570,7 +1570,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://telegram.me/Ghostbaja")
+                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/+Z2LwbQ8AbJ0yNWE9")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1665,7 +1665,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('📿 Cʜᴀɴɴᴇʟ 📿', url=CHNL_LNK),
-                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/Ghostbaja")
+                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/+Z2LwbQ8AbJ0yNWE9")
                 ],[
                     InlineKeyboardButton('👻 Hᴇʟᴘ 👻', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ 👾', callback_data='about')
