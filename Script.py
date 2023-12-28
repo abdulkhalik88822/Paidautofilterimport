@@ -488,9 +488,9 @@ Prime Membership Progress
 
 12 Months - 300 Rs [1 Month Free Trial]
 
-♛ UPI ID »»———> sumitnadiyaias@oksbi
+♛ UPI ID »»———> abdulkhalik1787@okhdfcbank
 
-♛ QR CODE »»———> <a href='https://t.me/Ter_Tabakka/54'>CLICK HERE</a> 
+♛ QR CODE »»———> <a href='https://t.me/bots_up/56'>CLICK HERE</a> 
 
 Would you like to become a Prime Member? Follow these steps:-
 
@@ -498,10 +498,10 @@ Would you like to become a Prime Member? Follow these steps:-
 ✤ Step 2: Pay using UPI ID depending on your plan.
 ✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
 
-Any doubts or how to become a prime member? contact me @Sumit_Nadiya</code></b>"""
+Any doubts or how to become a prime member? contact me @Attitude2688</code></b>"""
 
     PUSHPA = """
-<b>─────「<a href=https://t.me/Ter_Tabakka/247> Hᴏᴡ ᴛᴏ Eᴅɪᴛ Pʜᴏᴛᴏ </a> 」────
+<b>─────「<a href=https://t.me/bots_up> Hᴏᴡ ᴛᴏ Eᴅɪᴛ Pʜᴏᴛᴏ </a> 」────
 
 Yᴏᴜ ᴄᴀɴ Eᴅɪᴛ Pʜᴏᴛᴏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -509,9 +509,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:- 👇
 
 sᴛᴇᴘ 𝟷 : Sᴇɴᴅ ᴛʜᴇ ᴘʜᴏᴛᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ 📸 आप जो भी PHOTO EDIT करना चाहते हो वो भेजो। 🖼️
 
-sᴛᴇᴘ 𝟸 : Tʜᴇɴ Mᴀɴʏ 🔘Bᴜᴛᴛᴏɴs Wɪʟʟ Cᴏᴍᴇ👉<a href=https://t.me/Ter_Tabakka/247>CLICK HERE</a>👈फिर बहुत सारे 🔘 Buttons आएंगे।
+sᴛᴇᴘ 𝟸 : Tʜᴇɴ Mᴀɴʏ 🔘Bᴜᴛᴛᴏɴs Wɪʟʟ Cᴏᴍᴇ👉<a href=https://t.me/bots_up>CLICK HERE</a>👈फिर बहुत सारे 🔘 Buttons आएंगे।
 
-sᴛᴇᴘ 𝟹 : Yᴏᴜ Cᴀɴ Aʟsᴏ Rᴇᴍᴏᴠᴇ Tʜᴇ Bᴀᴄᴋɢʀᴏᴜɴᴅ Fʀᴏᴍ Tʜᴇ Lᴀsᴛ 🔘Bᴜᴛᴛᴏɴ👉<a href=https://t.me/Ter_Tabakka/247>CLICK HERE</a>👈आप अंत वाले BOTTON से बैकग्राउंड भी हटा सकते हो।
+sᴛᴇᴘ 𝟹 : Yᴏᴜ Cᴀɴ Aʟsᴏ Rᴇᴍᴏᴠᴇ Tʜᴇ Bᴀᴄᴋɢʀᴏᴜɴᴅ Fʀᴏᴍ Tʜᴇ Lᴀsᴛ 🔘Bᴜᴛᴛᴏɴ👉<a href=https://t.me/bots_up>CLICK HERE</a>👈आप अंत वाले BOTTON से बैकग्राउंड भी हटा सकते हो।
 
 ➣ YOU CAN EDIT MANY PHOTOS BUT ITS TAKE SPECIFIC TIME⌛. आप बहुत सारे PHOTO EDIT कर सकते हो लेकिन थोड़ा इंतजार करना एक साथ ज्यादा कमांड मत देना 🙏
 
