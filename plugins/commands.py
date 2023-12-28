@@ -177,7 +177,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Nᴇᴡ Mᴏᴠɪᴇs', url=f'http://t.me/+N8bbxoXCVFg1MTA1'),
+                          InlineKeyboardButton('Nᴇᴡ Mᴏᴠɪᴇs', url=f'https://t.me/bots_up'),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                          ],[ 
                             InlineKeyboardButton('🔍 Sᴇᴀʀᴄʜ Mᴏᴠɪᴇ Fᴏʀ Oɴʟɪɴᴇ Wᴀᴛᴄʜ 🖥', url=f'https://t.me/{SUPPORT_CHAT}') #Don't change anything without contacting me @LazyDeveloperr
