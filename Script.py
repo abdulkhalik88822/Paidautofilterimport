@@ -2,17 +2,17 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Ter_Tabakka'>Suᴍɪᴛ࿐सरकार✧</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Attitude2688'>Suᴍɪᴛ࿐सरकार✧</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Ter_Tabakka'>Suᴍɪᴛ࿐सरकार✧</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Ter_Tabakka'>Abdul࿐khalik✧</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/OTO_Filter_bot>CHITTI😁</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/DD_search_bot>CHITTI😁</a>
  ‣ My best friend : <a href='tg://settings'>🫵🫵 BEASTY 🫵🫵</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Ter_Tabakka'>UPDATES</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/bots_up'>UPDATES</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -24,7 +24,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Check On My Channel ⭐- <a href='https://Ter_Tabakka'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
+Check On My Channel ⭐- <a href='https://t.me/bots_up'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -75,9 +75,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Sumit_Nadiya>OWNER</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Attitude2688>OWNER</a></b>
   
- <b>✯ Join here : <a href=https://t.me/Ter_Tabakka>Join my updateds</a></b> 
+ <b>✯ Join here : <a href=https://t.me/bots_up>Join my updateds</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -90,7 +90,7 @@ my features Stay here new features coming soon...
   
  ./tts - <code>This command usage text to voice converter</code> 
   
- ./video - This command usage any YouTube video download hd [<code>example /video https://youtube.com/@sudhirbhainadiya2080?si=Z9e2u5m0ZsB-a7QK</code>]
+ ./video - This command usage any YouTube video download hd [<code>example /video https://youtube.com/@technicalamk506?si=A21pE8YFcnv8SG3w</code>]
 
 ./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
 
@@ -170,7 +170,7 @@ Nᴀᴍᴇ - {}"""
 🚯 𝗗𝗼𝗻𝘁 𝗨𝘀𝗲 ➠ ':(!,./)
 
 🔅 𝗣𝗹𝗲𝗮𝘀𝗲 𝗙𝗼𝗹𝗹𝗼𝘄 𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗧𝗶𝗽𝘀
-❗𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗧𝗶𝗽𝘀 : [<a href='http://t.me/+07IRr3jDXfEyOGM1'>𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲</a>]
+❗𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗧𝗶𝗽𝘀 : [<a href='https://t.me/bots_up'>𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲</a>]
 
 🔅 𝗣𝗹𝗲𝗮𝘀𝗲 𝗰𝗵𝗲𝗰𝗸 𝘆𝗼𝘂𝗿 𝗰𝘂𝗿𝗿𝗲𝗻𝘁 𝘀𝗽𝗲𝗹𝗹𝗶𝗻𝗴 𝗶𝗻 𝗚𝗼𝗼𝗴𝗹𝗲 👇👇</b>"""
 
@@ -184,7 +184,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/Ter_Tabakka/220> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」────
+<b>──────「<a href=https://t.me/bots_up> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -192,9 +192,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://urlspay.in/ref/Sumit720304>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://t.me/bots_up>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Ter_Tabakka/220> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/bots_up> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -237,7 +237,7 @@ Any Doubts or Not Connecting? Contact Me </b>
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """ 
-<b>📂 {file_name}<a href="https://t.me/Ter_Tabakka">🏷️𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<b>📂 {file_name}<a href="https://t.me/bots_up">🏷️𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
 𝗦𝗶𝘇𝗲 ⚙ :「 {file_size} 」
 </b>"""
