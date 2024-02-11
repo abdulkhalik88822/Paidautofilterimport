@@ -237,7 +237,7 @@ Any Doubts or Not Connecting? Contact Me </b>
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """ 
-<b>📂 {file_name}<a href="https://t.me/bots_up">🏷️𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<b>📂 {file_name}<a href="https://t.me/all_movies_aa">🏷️𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
 𝗦𝗶𝘇𝗲 ⚙ :「 {file_size} 」
 </b>"""
