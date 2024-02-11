@@ -2,21 +2,21 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Attitude2688'>Abdul࿐Khalik✧</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/all_movies_aa'>࿐✧</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Ter_Tabakka'>Abdul࿐Khalik✧</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/all_movies_aa'>࿐✧</a></b>"""
  
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/DD_search_bot>CHITTI😁</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/all_movies_aa>CHITTI😁</a>
  ‣ My best friend : <a href='tg://settings'>🫵🫵 BEASTY 🫵🫵</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/bots_up'>UPDATES</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/all_movies_aa'>UPDATES</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
- ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://Ghostbaja'>TYPE MOVIE</a> 
+ ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://t.me/all_movies_aa'>TYPE MOVIE</a> 
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
@@ -24,7 +24,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Check On My Channel ⭐- <a href='https://t.me/bots_up'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
+Check On My Channel ⭐- <a href='https://t.me/all_movies_aa'>📥 ᴄʟɪᴄᴋ ʜᴇʀᴇ 📥</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -75,9 +75,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Attitude2688>OWNER</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/all_movies_aa>OWNER</a></b>
   
- <b>✯ Join here : <a href=https://t.me/bots_up>Join my updateds</a></b> 
+ <b>✯ Join here : <a href=https://t.me/all_movies_aa>Join my updateds</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -90,7 +90,7 @@ my features Stay here new features coming soon...
   
  ./tts - <code>This command usage text to voice converter</code> 
   
- ./video - This command usage any YouTube video download hd [<code>example /video https://youtube.com/@technicalamk506?si=A21pE8YFcnv8SG3w</code>]
+ ./video - This command usage any YouTube video download hd [<code>example /video https://t.me/all_movies_aa</code>]
 
 ./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
 
@@ -184,7 +184,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/bots_up> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」────
+<b>──────「<a href=https://t.me/all_movies_aa> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -192,9 +192,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://t.me/bots_up>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://t.me/all_movies_aa>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/bots_up> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/all_movies_aa> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -488,9 +488,9 @@ Prime Membership Progress
 
 12 Months - 300 Rs [1 Month Free Trial]
 
-♛ UPI ID »»———> abdulkhalik1787@okhdfcbank
+♛ UPI ID »»———> https://t.me/all_movies_aa
 
-♛ QR CODE »»———> <a href='https://t.me/bots_up/56'>CLICK HERE</a> 
+♛ QR CODE »»———> <a href='https://t.me/all_movies_aa'>CLICK HERE</a> 
 
 Would you like to become a Prime Member? Follow these steps:-
 
@@ -498,10 +498,10 @@ Would you like to become a Prime Member? Follow these steps:-
 ✤ Step 2: Pay using UPI ID depending on your plan.
 ✤ Step 3 : Send screenshot to our admin or owner Or contact me to send a screenshot.
 
-Any doubts or how to become a prime member? contact me @Attitude2688</code></b>"""
+Any doubts or how to become a prime member? contact me https://t.me/all_movies_aa</code></b>"""
 
     PUSHPA = """
-<b>─────「<a href=https://t.me/bots_up> Hᴏᴡ ᴛᴏ Eᴅɪᴛ Pʜᴏᴛᴏ </a> 」────
+<b>─────「<a href=https://t.me/all_movies_aa> Hᴏᴡ ᴛᴏ Eᴅɪᴛ Pʜᴏᴛᴏ </a> 」────
 
 Yᴏᴜ ᴄᴀɴ Eᴅɪᴛ Pʜᴏᴛᴏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -509,9 +509,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:- 👇
 
 sᴛᴇᴘ 𝟷 : Sᴇɴᴅ ᴛʜᴇ ᴘʜᴏᴛᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴇᴅɪᴛ 📸 आप जो भी PHOTO EDIT करना चाहते हो वो भेजो। 🖼️
 
-sᴛᴇᴘ 𝟸 : Tʜᴇɴ Mᴀɴʏ 🔘Bᴜᴛᴛᴏɴs Wɪʟʟ Cᴏᴍᴇ👉<a href=https://t.me/bots_up>CLICK HERE</a>👈फिर बहुत सारे 🔘 Buttons आएंगे।
+sᴛᴇᴘ 𝟸 : Tʜᴇɴ Mᴀɴʏ 🔘Bᴜᴛᴛᴏɴs Wɪʟʟ Cᴏᴍᴇ👉<a href=https://t.me/all_movies_aa>CLICK HERE</a>👈फिर बहुत सारे 🔘 Buttons आएंगे।
 
-sᴛᴇᴘ 𝟹 : Yᴏᴜ Cᴀɴ Aʟsᴏ Rᴇᴍᴏᴠᴇ Tʜᴇ Bᴀᴄᴋɢʀᴏᴜɴᴅ Fʀᴏᴍ Tʜᴇ Lᴀsᴛ 🔘Bᴜᴛᴛᴏɴ👉<a href=https://t.me/bots_up>CLICK HERE</a>👈आप अंत वाले BOTTON से बैकग्राउंड भी हटा सकते हो।
+sᴛᴇᴘ 𝟹 : Yᴏᴜ Cᴀɴ Aʟsᴏ Rᴇᴍᴏᴠᴇ Tʜᴇ Bᴀᴄᴋɢʀᴏᴜɴᴅ Fʀᴏᴍ Tʜᴇ Lᴀsᴛ 🔘Bᴜᴛᴛᴏɴ👉<a href=https://t.me/all_movies_aa>CLICK HERE</a>👈आप अंत वाले BOTTON से बैकग्राउंड भी हटा सकते हो।
 
 ➣ YOU CAN EDIT MANY PHOTOS BUT ITS TAKE SPECIFIC TIME⌛. आप बहुत सारे PHOTO EDIT कर सकते हो लेकिन थोड़ा इंतजार करना एक साथ ज्यादा कमांड मत देना 🙏
 
