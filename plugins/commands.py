@@ -25,8 +25,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/bots_up"),
-                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url="https://t.me/bots_up")
+                    InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/all_movies_aa"),
+                    InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url="https://t.me/all_movies_aa")
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -46,7 +46,7 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('📿 Cʜᴀɴɴᴇʟ 📿', url=CHNL_LNK),
-                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/bots_up")
+                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/all_movies_aa")
                 ],[
                     InlineKeyboardButton('👻 Hᴇʟᴘ 👻', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ 👾', callback_data='about')
@@ -89,7 +89,7 @@ async def start(client, message):
                 btn.append([InlineKeyboardButton("↻ Tʀʏ Aɢᴀɪɴ", url=f"https://t.me/{temp.U_NAME}?start={message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**You are not in our channel given below so you don't get the movie file...\n\nIf you want movie file, click on the '🍿ᴊᴏɪɴ ᴏᴜʀ ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ🍿' button below and join our back-up channel, then click on the 🔄 Try Again button below..Then you will get the movie files.. t.me/bots_up/94**",
+            text="**You are not in our channel given below so you don't get the movie file...\n\nIf you want movie file, click on the '🍿ᴊᴏɪɴ ᴏᴜʀ ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ🍿' button below and join our back-up channel, then click on the 🔄 Try Again button below..Then you will get the movie files.. t.me/all_movies_aa**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode=enums.ParseMode.MARKDOWN
             )
@@ -99,7 +99,7 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('📿 Cʜᴀɴɴᴇʟ 📿', url=CHNL_LNK),
-                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/bots_up")
+                    InlineKeyboardButton('⚜Mʏ Gʀᴏᴜᴘ⚜', url="https://t.me/all_movies_aa")
                 ],[
                     InlineKeyboardButton('👻 Hᴇʟᴘ 👻', callback_data='help'),
                     InlineKeyboardButton('👾 Aʙᴏᴜᴛ 👾', callback_data='about')
@@ -158,7 +158,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton('Nᴇᴡ Mᴏᴠɪᴇs', url=f'https://t.me/bots_up'),
+                                InlineKeyboardButton('Nᴇᴡ Mᴏᴠɪᴇs', url=f'https://t.me/all_movies_aa'),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
                                 InlineKeyboardButton('🔍 Sᴇᴀʀᴄʜ Mᴏᴠɪᴇ Fᴏʀ Oɴʟɪɴᴇ Wᴀᴛᴄʜ 🖥', url=f'https://t.me/{SUPPORT_CHAT}') #Don't change anything without contacting me @LazyDeveloperr
@@ -177,7 +177,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Nᴇᴡ Mᴏᴠɪᴇs', url=f'https://t.me/bots_up'),
+                          InlineKeyboardButton('Nᴇᴡ Mᴏᴠɪᴇs', url=f'https://t.me/all_movies_aa'),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                          ],[ 
                             InlineKeyboardButton('🔍 Sᴇᴀʀᴄʜ Mᴏᴠɪᴇ Fᴏʀ Oɴʟɪɴᴇ Wᴀᴛᴄʜ 🖥', url=f'https://t.me/{SUPPORT_CHAT}') #Don't change anything without contacting me @LazyDeveloperr
