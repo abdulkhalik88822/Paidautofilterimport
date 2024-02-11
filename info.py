@@ -27,24 +27,24 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/6d754cd447246fe40
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/9133dc596eabc73750774.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5851749250').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5077409120').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001569815531').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
-auth_channel = environ.get('AUTH_CHANNEL', '-1001954276464')
+auth_channel = environ.get('AUTH_CHANNEL', '-1002065264418')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '')
-reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002028120006')
+reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002065264418')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://abdul:abdul@cluster0.tz24m3k.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
@@ -57,13 +57,13 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "10")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/bots_up')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/bots_up')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/bots_up')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/all_movies_aa')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/all_movies_aa')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/all_movies_aa')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello Lovely Friend ❤️')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001626107740'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/bots_up')
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002095038260'))
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/all_movies_aa')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
